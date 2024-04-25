@@ -1,0 +1,10 @@
+usei os links
+stripe para fazer o servidor
+https://dashboard.stripe.com/test/apikeys
+
+
+pegar imagem
+https://br.freepik.com/search?format=search&last_filter=query&last_value=pizza&query=pizza
+
+comprimir imagem
+https://compressjpeg.com/pt/
